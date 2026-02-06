@@ -3,7 +3,7 @@
 Plugin Name: Counter-Hits
 Plugin URI: https://wpgear.xyz/counter-hits/
 Description: A simple, easy, fast, adaptive, local, objective counter to visit your site.
-Version: 2.10
+Version: 2.11
 Text Domain: counter-hits
 Domain Path: /languages
 Author: WPGear

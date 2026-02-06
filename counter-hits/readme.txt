@@ -3,11 +3,11 @@ Contributors: WPGear
 Donate link: https://wpgear.xyz/counter-hits/
 Tags: counter, hits, visitors, activity
 Requires at least: 4.1
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.4
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 2.10
+Stable tag: 2.11
 
 A simple, easy, fast, adaptive, local, objective counter to visit your site.
 
@@ -50,6 +50,11 @@ NA
 1. screenshot-1.png This is the example page whith Counter.
 
 == Changelog ==
+= 2.11 =
+	2025.01.27
+	* Tested to WP: 6.9
+	* Tested to PHP: 8.4.17
+	
 = 2.10 =
 	2025.07.15
 	* Tested to WP: 6.8.1
